@@ -2,3 +2,8 @@
 2.What does fast-forward in Git mean?
 3.Why should you have different branches?
 4.In a project how many remote Git repositories do you usually have?
+
+1 ans:- gitignore file stores the file extensions of the files which should be ignored.In java project it include .class, .jar and .log fileextensions.
+2 ans:- when we merge a branch that is ahead of checkout branch.
+3 ans:- Because we should not want to corrupt the master branch, we create temporary braches to update, edit and test our repository project files.
+4 ans:- Only one
